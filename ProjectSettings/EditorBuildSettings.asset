@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Labs/07-Prototype4/07-Prototype4.unity
     guid: a0d2a73e11b0743f4abfb05dbe92329b
+  - enabled: 0
+    path: Assets/survival island stuff/StartScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/survival island stuff/survivalIsland.unity
+    guid: c2d8b966710681a4aa9c92b10eb4f66d
   m_configObjects: {}
